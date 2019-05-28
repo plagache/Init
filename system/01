@@ -1,1 +1,1 @@
-/usr
+cat /etc/os-release

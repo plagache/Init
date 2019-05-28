@@ -1,0 +1,19 @@
+## update ##
+
+apt-get update >/var/log/update_script.log.
+
+apt-get -y dist-upgrade >>/var/log/update_script.log.
+
+## clean ##
+
+apt-get autoclean >>/var/log/update_script.log.
+
+apt-get clean >>/var/log/update_script.log.
+
+apt-get -y autoremove >>/var/log/update_script.log.
+
+cat /var/log/update_script.log.
+
+## direct process visual 
+
+## tail -f /var/log/update_script.log

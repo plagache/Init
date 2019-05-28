@@ -1,1 +1,2 @@
 apt-cache pkgnames
+apt list --installed

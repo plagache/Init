@@ -1,1 +1,1 @@
-ssh user@localhost
+ssh -xw user@localhost

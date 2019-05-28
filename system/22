@@ -1,2 +1,1 @@
-useradd -m
--m to create a home directory for this user
+adduser USER_NAME_
