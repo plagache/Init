@@ -1,1 +1,2 @@
-service --status-all
+systemctl list-units --type service --all
+name : daemon

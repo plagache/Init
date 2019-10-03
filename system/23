@@ -1,2 +1,2 @@
-connecte in GS  : with your username and password like in school
-connecte in SSH : ssh username@localhost and password
+connecte in GS  : after Vm is launch with your username and password in the graphics interface
+connecte in SSH : ssh -p "port" username@localhost and password

@@ -1,1 +1,1 @@
-adduser USER_NAME_
+useradd -m USER_NAME_

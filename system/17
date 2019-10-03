@@ -1,1 +1,1 @@
-ssh -xw user@localhost
+ssh -p 2222 username@localhost

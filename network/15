@@ -1,5 +1,6 @@
-changer le fichier /etc/hosts
+In order to make the intra.42.fr address reroute to 46.19.122.85
+we need to modify the file /etc/hosts.
 
-format :
+Format :
 
-ip adress		intra.42.fr
+46.19.122.85		intra.42.fr

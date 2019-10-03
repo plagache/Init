@@ -1,1 +1,1 @@
-sudo df -h
+df -h

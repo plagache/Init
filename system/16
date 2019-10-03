@@ -1,1 +1,1 @@
-service cron start
+the service which make it possible to run specific task following a regular schedule is cron.

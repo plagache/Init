@@ -1,1 +1,1 @@
-sudo du -sDh /var/*
+sudo du -h --max-depth=1 /var
